@@ -1,0 +1,24 @@
+{
+  "appBaseUrl": "https://www.saucedemo.com/",
+  "inventoryUrl": "/inventory.html",
+  "checkoutUrl": "/checkout-complete.html",
+  "cartUrl": "/cart.html",
+  "userName": "standard_user",
+  "password": "secret_sauce",
+  "invalidUserName": "User1234",
+  "invalidPassword": "Test",
+  "invalidLoginMessage": "Epic sadface: Username and password do not match any user in this service",
+  "firstItemDesc": "Rib snap infant onesie for the junior automation engineer",
+  "LastItemDesc": "It's not every day that you come across a midweight quarter-zip fleece jacket",
+  "firstName": "Vikram",
+  "lastName": "Dongare",
+  "postalCode": "412105",
+  "thankYouMessage": "Thank you for your order!",
+  "orderDispatchedMessage": "Your order has been dispatched, and will arrive just as fast as the pony can get there!",
+  "apiDetails": {
+    "apiBaseUrl": "https://jsonplaceholder.typicode.com",
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "Sincere@april.biz"
+  }
+}

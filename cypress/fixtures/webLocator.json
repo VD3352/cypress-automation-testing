@@ -1,0 +1,37 @@
+{
+  "loginElement": {
+    "userNameInput": "#user-name",
+    "passwordInput": "#password",
+    "loginButton": "#login-button",
+    "validationError": "[data-test='error']"
+  },
+  "productsElement": {
+    "productSortDropdown": ".product_sort_container",
+    "shoppingCart": "[data-test='shopping-cart-link']",
+    "productList": ".inventory_item",
+    "productsPrice": ".inventory_item_price",
+    "productName": ".inventory_item_name",
+    "inventoryItemButton": ".btn_inventory",
+    "shoppingCartBadge": ".shopping_cart_badge"
+  },
+  "cartElement": {
+    "cartItem": ".cart_item",
+    "cartItemDesc": ".inventory_item_desc",
+    "cartItemPrice": ".inventory_item_price"
+  },
+  "checkoutElement": {
+    "shoppingCartLink": ".shopping_cart_link",
+    "checkoutButton": "#checkout",
+    "summaryTotalLabel": ".summary_total_label",
+    "finishButton": "#finish",
+    "firstNameInput": "[data-test=firstName]",
+    "lastNameInput": "[data-test=lastName]",
+    "postalCodeInput": "[data-test=postalCode]",
+    "continueButton": "#continue",
+    "summaryInfoLabel": ".summary_info_label",
+    "summaryValueLabel": ".summary_value_label",
+    "checkoutCompleteContainer": "#checkout_complete_container",
+    "thankYouMessage": ".complete-header",
+    "orderDispatchedMessage": ".complete-text"
+  }
+}
